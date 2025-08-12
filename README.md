@@ -4,7 +4,7 @@ A data analysis project to uncover the factors that influenced passenger surviva
 
 
 
-📖 Key Questions This analysis seeks to answer several core questions:
+### 📖 Key Questions This analysis seeks to answer several core questions:
 
 What was the overall survival rate?
 
@@ -16,7 +16,7 @@ Is there a correlation between the fare a passenger paid and their chance of sur
 
 
 
-🛠️ Tools Used The analysis was performed using the following Python libraries:
+### 🛠️ Tools Used The analysis was performed using the following Python libraries:
 
 Pandas: For data manipulation and analysis.
 
@@ -27,7 +27,7 @@ Seaborn: For making statistical graphics that are informative and attractive.
 
 
 
-🖼️ Key Visualizations Visuals were key to identifying the story within the data.
+### 🖼️ Key Visualizations Visuals were key to identifying the story within the data.
 
 Survival Rate by Passenger Class This chart clearly shows the survival disparity between the classes.
 

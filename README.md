@@ -27,7 +27,7 @@ Seaborn: For making statistical graphics that are informative and attractive.
 
 
 
-### 🖼️ Key Visualizations- Visuals were key to identifying the story within the data.
+### 🖼️ Key Visualizations- Visuals were key to identifying the story within the data:
 
 Survival Rate by Passenger Class This chart clearly shows the survival disparity between the classes.
 
